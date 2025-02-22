@@ -10,5 +10,8 @@
   "description": "",
   "devDependencies": {
     "cypress": "^13.17.0"
+  },
+  "dependencies": {
+    "uuid": "^11.1.0"
   }
 }
